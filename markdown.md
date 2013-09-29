@@ -79,3 +79,11 @@ becomes
 
 Add **2 spaces** to the end of the line  
 To ensure a soft break
+
+##Code
+
+Surround code with `  
+
+Code inside text is `very cool`
+
+	Code line
